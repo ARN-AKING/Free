@@ -40,7 +40,7 @@
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93780860907)
 
-#screen shot
+# SCREENSHOT
 
 
 ![Screenshot_2023-01-31-21-59-26-89_84d3000e3f4017145260f7618db1d683](https://github.com/AryanHack907/Free/blob/main/Screenshot_20230320-164936.png)
