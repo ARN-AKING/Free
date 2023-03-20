@@ -43,6 +43,6 @@
 #screen shot
 
 
-![Screenshot_2023-01-31-21-59-26-89_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/88397313/215881259-28b02085-45c3-4cb2-a9d2-ecb89e395c18.png)
+![Screenshot_2023-01-31-21-59-26-89_84d3000e3f4017145260f7618db1d683](https://github.com/AryanHack907/Free/blob/main/Screenshot_20230320-164936.png)
 
 🇫‌🇦‌🇷‌🇭‌🇦‌🇩‌ 🇭‌🇦‌🇨‌🇰‌
