@@ -18,7 +18,7 @@ def Update():
 
     exit('\033[1;31m[●] Commands On Update Please Wait For Update ❤ ')
 
-def FKING():
+def run():
 
         bit = platform.architecture()[0]
 
@@ -30,7 +30,7 @@ def FKING():
 
             os.system('xdg-open https://t.me/Style_907')
 
-            from FKING import refat
+            from FKING import FKING
 
             refat()
 
@@ -42,7 +42,7 @@ def FKING():
 
             os.system('xdg-open https://github.com/AryanHack907')
 
-            from FKING import refat
+            from FKING import FKING
 
             refat()
 
@@ -50,4 +50,4 @@ def FKING():
 
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 
-FKING()
+run()
