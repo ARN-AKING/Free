@@ -33,7 +33,7 @@
 
 # MAIN CAMMANDS
 
-- `rm -rf paid`
+- `rm -rf free`
 - `git clone https://github.com/AryanHack907/free`
 - `cd free`
 - `python3 Runj.py`
