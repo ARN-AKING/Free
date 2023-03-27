@@ -35,7 +35,7 @@
 
 - `rm -rf paid`
 - `git clone https://github.com/AryanHack907/paid`
-- `cd free`
+- `cd paid`
 - `python3 Runj.py`
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93780860907)
