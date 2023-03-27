@@ -1,5 +1,5 @@
 
-# free
+#PAID
 
 
 
@@ -33,8 +33,8 @@
 
 # MAIN CAMMANDS
 
-- `rm -rf free`
-- `git clone https://github.com/AryanHack907/free`
+- `rm -rf paid`
+- `git clone https://github.com/AryanHack907/paid`
 - `cd free`
 - `python3 Runj.py`
 
